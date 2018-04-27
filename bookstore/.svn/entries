@@ -1,0 +1,97 @@
+8
+
+dir
+449
+http://book.learningjquery.com/book/bookstore
+http://book.learningjquery.com/book
+
+
+
+2007-06-02T22:33:38.419426Z
+408
+jchaffer
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2601af58-4226-0410-ad88-f4ca01a1370e
+
+covers
+dir
+
+styles
+dir
+
+authors
+dir
+
+images
+dir
+
+search
+dir
+
+scripts
+dir
+
+forms-todo.txt
+file
+
+
+
+
+2007-04-23T13:31:57.000000Z
+50afc64c8245c724e970f28217711b97
+2007-03-30T11:34:06.858093Z
+250
+kswedberg
+
+cart
+dir
+
+index.html
+file
+
+
+
+
+2007-04-23T13:31:57.000000Z
+2e80e2d974ef97e962b6f98cb23f187b
+2007-04-15T18:51:34.254427Z
+311
+jchaffer
+
+contact
+dir
+
+icons
+dir
+
+news
+dir
+
+books
+dir
+
+rotators-todo.txt
+file
+
+
+
+
+2007-04-23T13:31:57.000000Z
+bc8f62d7cb20f8720fc32e2537b4ba55
+2007-04-12T15:58:02.959764Z
+291
+kswedberg
+
